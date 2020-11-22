@@ -4,6 +4,6 @@ The data is also provided with this repo. To run the model, just clone the repo 
 
 ```python train.py```
 
-## Dependencies
+## Requirements
 
-pytorch > 1.0.0, numpy, tqdm
+python > 3.6, pytorch > 1.0.0, numpy, tqdm
